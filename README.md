@@ -1,8 +1,7 @@
 ## Frontend (Next.js/React.js)
 
-**Frontend URL:** [https://kbutsho-csn-ecommerce.vercel.app](https://kbutsho-csn-ecommerce.vercel.app)
-
-**Backend URL:** [https://www.ecommerce.sdmissionbd.org/api/products](https://www.ecommerce.sdmissionbd.org/api/products)
+- **Frontend URL:** [https://kbutsho-csn-ecommerce.vercel.app](https://kbutsho-csn-ecommerce.vercel.app)
+- **Backend URL:** [https://www.ecommerce.sdmissionbd.org/api/products](https://www.ecommerce.sdmissionbd.org/api/products)
 
 ### Setup Instructions
 

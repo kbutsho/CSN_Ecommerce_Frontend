@@ -33,7 +33,7 @@ export default function AdminSettings() {
 
   return (
     <div className="row">
-      <div className="col-xl-8">
+      <div className="col-xl-12">
         <form className="card-box" onSubmit={save}>
           <h5 className="mb-1">Site settings</h5>
           <p className="text-muted">These texts and contact details appear on the customer pages.</p>

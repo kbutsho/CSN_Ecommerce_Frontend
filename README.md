@@ -12,5 +12,5 @@
 5. **Login:** `admin@gmail.com` / `Password#0000`
 
 ### Note
-- <span style="color:red">Image upload is not working on the cPanel server.</span>
-- <span style="color:red">Image upload works correctly on locally.</span>
+- Image upload is not working on the cPanel server.
+- Image upload works correctly on locally.
